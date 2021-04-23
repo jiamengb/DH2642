@@ -19,4 +19,4 @@ An effective solution to the problem of deciding what to eat for lunch.
 
 ## File Structure
 
-This is a packaged release
+The librares I used are too big (about 400Mb) so I prefer to upload the packaged bundle
